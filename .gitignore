@@ -1,0 +1,89 @@
+# Archivos de Unity generados automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+# Archivos de Unity a ignorar
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Packages/
+ProjectSettings/
+
+# Cache de Unity
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash*
+/[Aa]ssets/[Ss]treamingAssets/[Aa]a/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/[Aa]a/*/*.hash*
+
+# Configuración específica del usuario
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.vscode/
+*.vcxproj*
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.db-wal
+*.db-shm
+
+# Archivos de Visual Studio
+.vscode/
+.vs/
+*.userprefs
+*.user
+*.unityproj
+*.sln.ide
+*.sln.docstates
+
+# Configuración de Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Control de versiones de Unity (Plastic SCM)
+.globl.ignr
+.settings/
+
+# Archivos de compilación en Android/iOS
+*.apk
+*.aab
+*.ipa
+*.xcuserstate
+*.xcworkspace
+*.xcassets
+*.pbxproj
+
+# Paquetes descargados de Unity Package Manager
+Packages/manifest.json.meta
+Packages/packages-lock.json
+
+# Archivos de caché de Unity Collab (si se usa)
+.collab/
+
+# Configuración específica de la plataforma
+[Bb]uild/[Ww]indows/
+[Bb]uild/[Mm]ac/
+[Bb]uild/[Ll]inux/
+[Bb]uild/[Ii]OS/
+[Bb]uild/[Aa]ndroid/
+
+# Archivos de Git relacionados con Unity
+.gitignore.meta
